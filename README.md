@@ -1,8 +1,8 @@
 ### Olá, Tr00vuada aqui ! 👋
 
-- 🔭 Atualmente trabalhando como FullStack
-- 🌱 Atualmente aprendendo sobre a Framework Next.js e cursando Análise e Desenvolvimento de Sistema na Faculdade SENAC Florianópolis
-- 😄 Pronomes: Ele/Dele
+- 🔭 Atualmente trabalhando como Dev FullStack;
+- 🌱 Aprendendo sobre a Framework Next.js e cursando Análise e Desenvolvimento de Sistema na Faculdade SENAC Florianópolis(3ª fase do curso);
+- 😄 Pronomes: Ele/Dele;
 - ⚡ Bora Codar !
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tr00vuada&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
