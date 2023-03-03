@@ -1,6 +1,5 @@
 ### Olá, Tr00vuada aqui ! 👋
 
-- 🔭 Atualmente trabalhando como Dev FullStack;
 - 🌱 Aprendendo sobre a Framework Next.js e cursando Análise e Desenvolvimento de Sistema na Faculdade SENAC Florianópolis(3ª fase do curso);
 - 😄 Pronomes: Ele/Dele;
 - ⚡ Bora Codar !
