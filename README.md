@@ -1,6 +1,6 @@
 ### Olá, Tr00vuada aqui ! 👋
 
-- 🌱 Aprendendo sobre a Framework Next.js e cursando Análise e Desenvolvimento de Sistema na Faculdade SENAC Florianópolis(3ª fase do curso);
+- 🌱 Estudante do curso de Análise e Desenvolvimento de Sistema na Faculdade SENAC Florianópolis(4ª fase do curso);
 - 😄 Pronomes: Ele/Dele;
 - ⚡ Bora Codar !
 
