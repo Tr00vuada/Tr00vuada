@@ -1,6 +1,7 @@
 ### Olá, Tr00vuada aqui ! 👋
 
-- 🌱 Estudante do curso de Análise e Desenvolvimento de Sistema na Faculdade SENAC Florianópolis(5ª fase do curso);
+- ​🏫 Formação em Análise e Desenvolvimento de Sistema na Faculdade SENAC Florianópolis;
+- 👨‍💻 CTO na Empresa UTP (UtopIA);
 - 😄 Pronomes: Ele/Dele;
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tr00vuada&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
